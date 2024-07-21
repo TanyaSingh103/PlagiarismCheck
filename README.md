@@ -7,7 +7,7 @@ This repository contains the implementation of a machine learning-based code pla
 - `notebook.ipynb`: Jupyter notebook with the complete implementation.
 - `data/`: Directory containing C++ code files used for training and testing.
 - `README.md`: This README file.
-- `other work/`: Directory containing previous versions of the model and other alternate methods tried
+- `alternate/`: Directory containing previous versions of the model and other alternate methods tried
 
 ## Overview
 
